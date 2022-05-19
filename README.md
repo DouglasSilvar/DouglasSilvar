@@ -18,9 +18,9 @@
 - 💬 Ask me about Java Spring/Micronaut
 
 <div>
-<a href="https://github.com/DouglasSilvar">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasSilvar&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DouglasSilvar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/douglassilvar">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglassilvar&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglassilvar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 
